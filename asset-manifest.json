@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.c6fa2921.css",
+    "main.js": "/PortfolioWebsite/static/js/main.f50f5fce.js",
+    "static/media/Subbu.png": "/PortfolioWebsite/static/media/Subbu.800b0d40d138383d0aae.png",
+    "static/media/Subbu1.jpg": "/PortfolioWebsite/static/media/Subbu1.4e29d5673b2dd3becb0a.jpg",
+    "static/media/SubramanyaM_resume.pdf": "/PortfolioWebsite/static/media/SubramanyaM_resume.932350120bd44f0fdf1f.pdf",
+    "index.html": "/PortfolioWebsite/index.html",
+    "main.c6fa2921.css.map": "/PortfolioWebsite/static/css/main.c6fa2921.css.map",
+    "main.f50f5fce.js.map": "/PortfolioWebsite/static/js/main.f50f5fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6fa2921.css",
+    "static/js/main.f50f5fce.js"
+  ]
+}
