@@ -48,9 +48,6 @@ export const Header = () => {
 
                 <i class="uil uil-times nav__close" onClick={()=> setToggle(!Toggle)} ></i> 
             </div>
-            <div className='nav__toggle' onClick={(e) => setToggle(!Toggle)} > 
-            <i class="uil uil-apps"></i>
-            </div>
         </nav>
     </header>
   )
